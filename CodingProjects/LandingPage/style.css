@@ -1,0 +1,17 @@
+#header-img{
+   width: 10%;
+   height: auto;
+}
+li{
+    list-style: none;
+    margin: 0px 15px 0px 0px;
+}
+
+#nav-bar{
+    position: fixed;
+    margin-left: 1200px;
+}
+
+ul{
+    display: flex;
+}
